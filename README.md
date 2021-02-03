@@ -18,7 +18,7 @@ initscript {
     }
   }
   dependencies {
-    classpath("nl.martijndwars:proxy-gradle-plugin:0.1-SNAPSHOT")
+    classpath("nl.martijndwars:proxy-gradle-plugin:1.0.0")
   }
 }
 
