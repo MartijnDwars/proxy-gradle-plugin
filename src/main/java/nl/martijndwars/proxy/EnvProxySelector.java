@@ -25,7 +25,7 @@ public class EnvProxySelector extends ProxySelector {
 
     System.out.println("httpProxy = " + httpProxy);
     System.out.println("httpsProxy = " + httpsProxy);
-    System.out.println("noProxy = " + httpProxy);
+    System.out.println("noProxy = " + noProxy);
   }
 
   private static String getEnvInsensitive(String name) {
